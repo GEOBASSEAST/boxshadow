@@ -1,24 +1,24 @@
 div {
     display: inline-block ;
     border: 1px solid white;
-    transform: translate(700px, 300px);
-    
-    
+    transform: translate(700px, 300px);    
 }
+
+
 
 .img-container {
 float:left;
 width: 25%;
 padding: 20px;
 box-sizing: border-box;
-
 }
+
+
+
 div:hover {
     background-color: darkblue;
     color: white;
     box-shadow: 15px 15px 15px lightskyblue;
     transition: box-shadow 2s;
-    
-    
 }
 
